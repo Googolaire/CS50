@@ -10,4 +10,13 @@ int main(void)
    {
     printf("x is less than y\n");
    }
+   else if( x > y)
+   {
+    printf("x Greater than y\n");
+   }
+   else 
+   {
+    printf("x is equal to y\n");
+
+   }
 }
