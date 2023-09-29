@@ -11,6 +11,7 @@ int main(void)
 }
 */
 
+//Making precice floats possible using doubles 
 int main(void)
 {
     long x = get_long("x: ");
